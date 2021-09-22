@@ -2,7 +2,7 @@
 
 > A pytorch implementation.
 
-[**Capsule networks with non-iterative cluster routing**](https://PLACEHOLDER)
+[**Capsule networks with non-iterative cluster routing**](https://arxiv.org/abs/2109.09213)  
 Zhihao Zhao, [Samuel Cheng](https://samuelcheng.info/)
 Elsevier Neural Networks, Volume 143, November 2021. 
 
